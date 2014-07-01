@@ -1,0 +1,22 @@
+#Fri Jun 13 12:30:00 CST 2014
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF=UTF-8
+encoding//WebRoot/WEB-INF/buttons.jsp=UTF-8
+encoding//WebRoot/WEB-INF/calendar.jsp=UTF-8
+encoding//WebRoot/WEB-INF/dropzone.jsp=UTF-8
+encoding//WebRoot/WEB-INF/faq.jsp=UTF-8
+encoding//WebRoot/WEB-INF/form-elements.jsp=UTF-8
+encoding//WebRoot/WEB-INF/form-wizard.jsp=UTF-8
+encoding//WebRoot/WEB-INF/inbox.jsp=UTF-8
+encoding//WebRoot/WEB-INF/index.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jqgrid.jsp=UTF-8
+encoding//WebRoot/WEB-INF/profile.jsp=UTF-8
+encoding//WebRoot/WEB-INF/tables.jsp=UTF-8
+encoding//WebRoot/WEB-INF/timeline.jsp=UTF-8
+encoding//WebRoot/WEB-INF/typography.jsp=UTF-8
+encoding//WebRoot/WEB-INF/widgets.jsp=UTF-8
+encoding//WebRoot/WEB-INF/wysiwyg.jsp=UTF-8
+encoding//src/com/sp/web/IndexController.java=UTF-8
+encoding//src/com/sp/web/ReturnController.java=UTF-8
+encoding//src/com/sp/web/UserController.java=UTF-8
+encoding/<project>=UTF-8
